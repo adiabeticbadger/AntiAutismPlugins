@@ -4,8 +4,9 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="Z:/Server Storage/Minecraft/Server/Spigot/Spigot-API/target/spigot-api-1.12.2-R0.1-SNAPSHOT.jar">
 		<attributes>
-			<attribute name="javadoc_location" value="https://hub.spigotmc.org/javadocs/spigot/"/>
+			<attribute name="javadoc_location" value="jar:file:/D:/Programming/JARs/bukkit-1.12.2-R0.1-20180418.221809-137-javadoc.jar!/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/Utilities"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

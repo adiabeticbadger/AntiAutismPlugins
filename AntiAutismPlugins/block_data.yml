@@ -1,0 +1,9 @@
+#File that stores the location of the block to restore, and the material.
+
+worlds: 
+  mining_world: 
+      b1:
+        locx : 0 
+        locy : 0 
+        locz : 0 
+        material : COAL_ORE 

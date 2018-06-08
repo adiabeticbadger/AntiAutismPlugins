@@ -1,0 +1,22 @@
+name: AntiAustismCouncilPlugins
+
+depend:
+  - Multiverse-Core
+
+main: io.github.adiabeticbadger.spigot.plugins.AntiAutismPluginsMain
+
+prefix: AAC
+
+version: 1.1
+
+commands:
+  
+  blkrgn:
+    description: Base command for Anti-Autism Council block regeneration.
+    usage: /blkrgn {reload|settime} [num minutes]
+  tph:
+    description: Teleports you to your bed spawn point
+    usage: /tph
+  tpws:
+    description: Teleports you to the world spawn point
+    usage: /tpws

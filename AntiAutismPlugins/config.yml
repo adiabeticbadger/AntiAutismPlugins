@@ -1,0 +1,17 @@
+#Config file for the plugin
+
+#blockregen contains the regen time for each material
+blockregen:
+  time: 10080   #Time between breaking and regenerating a block, in minutes
+  materials:
+    - COAL_ORE
+    - DIAMOND_ORE
+    - EMERALD_ORE
+    - GOLD_ORE
+    - IRON_ORE
+    - LAPIS_ORE
+    - QUARTZ_ORE
+    - REDSTONE_ORE
+  worlds:
+    -mining_world
+    -world_nether
